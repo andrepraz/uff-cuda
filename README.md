@@ -4,13 +4,40 @@
 
 ## INTRODUÇÃO
 
-Desenvolver um sistema inteligente capaz de classificar automaticamente textos jornalísticos com base em suas características semânticas e epistêmicas e, em seguida, gerar resumos relevantes dessas notícias.
-Isso envolve o uso de lógica epistêmica para modelar conhecimento e crenças em relação às notícias, redes neurais para análise semântica e processamento paralelo em CUDA para acelerar o processamento.
+A evolução das tecnologias de informação, a comunicação entre as pessoas, abriu novas oportunidades e plataformas de interação. O que possibilitou o surgimento de novos canais de mídia e produção de conteúdo (SILVA; TESSAROLO, 2016).
+As redes sociais estão se tornando um padrão para a comunicação e a troca de informações. Mas suas publicações são limitadas no que se refere ao número de caracteres postados. A comunicação do texto deve ser mais concisa e isso independente do tema: entretenimento, esporte, negócio, política, tecnologia etc.
+DUARTE; RIVOIRE; AUGUSTO RIBEIRO (2016) estudaram como as redes sociais são fornecedoras de pauta, geradoras de conteúdo e disseminadoras da produção jornalística.
+
+[em construção...]
+
+Neste contexto, o objetivo é classificar os textos jornalísticos com base nos temas entretenimento, esporte, negócio, política, tecnologia com redes neurais aplicando o processamento paralelo em CUDA com o módulo PyTorch.
+
+## REDES NEURAIS
+A linguagem natural é utilizada pelos humanos que é diferente de uma linguagem de programação. A linguagem natural trabalha com palavras e a linguagem de programação trabalha com números. Então, a tarefa é transforma palavras em representação numérica para que uma linguagem natural seja interpretada por um algoritmo.
+
+Segundo RUSSELL; NORVIG (2013), há quatro estratégias para o estudo da IA: Pensando como um humano, Pensando racionalmente, Agindo como seres humanos e Agindo racionalmente. Para RUSSELL; NORVIG (2013) a categoria  “Agindo como seres humanos”, em uma abordagem do teste de Turing, o computador precisaria ter as seguintes capacidades:
+
+    • processamento de linguagem natural para permitir que ele se comunique com sucesso em um idioma natural;
+    • representação de conhecimento para armazenar o que sabe ou ouve;
+    • raciocínio automatizado para usar as informações armazenadas com a finalidade de responder a perguntas e tirar novas conclusões;
+    • aprendizado de máquina para se adaptar a novas circunstâncias e para detectar e extrapolar padrões.
+
+A aprendizagem de máquina (ou machine learning) é um campo da inteligência artificial que se concentra no desenvolvimento de algoritmos e modelos que permitem que os computadores aprendam e tomem decisões ou façam previsões com base em dados, sem serem explicitamente programados.
+
+Embora não foram descritas as outras três categorias, é nesta categoria que se encontram os conceitos e elementos para a construção deste trabalho.
+Existem vários tipos de aprendizagem de máquina, incluindo aprendizagem supervisionada, aprendizagem não supervisionada e aprendizagem por reforço.
+Na aprendizagem supervisionada, o algoritmo é treinado usando um conjunto de dados rotulados, onde cada exemplo de dados possui uma entrada e a saída desejada correspondente. O objetivo é aprender uma função que mapeie as entradas para as saídas corretas. Exemplos de algoritmos de aprendizagem supervisionada incluem regressão linear, árvores de decisão, redes neurais, entre outros.
+
+Então, uma rede neural é composta por unidades interconectadas chamadas de neurônios artificiais, organizados em camadas. Cada neurônio recebe entradas, realiza um cálculo ponderado e aplica uma função de ativação para produzir uma saída. As conexões entre os neurônios são representadas por pesos, que são ajustados durante o treinamento do modelo.
+
+[em construção...]
 
 
 ## METODOLOGIA
 
 PyTorch é um framework de aprendizado de máquina e deep learning de código aberto amplamente utilizado. Ele foi desenvolvido pela equipe de pesquisa do Facebook AI e se tornou uma escolha popular entre pesquisadores e desenvolvedores devido à sua flexibilidade, facilidade de uso e eficiência computacional.
+
+[em construção...]
 
 ## RESULTADOS ESPERADOS
 
@@ -178,6 +205,11 @@ print("Texto:", new_text)
 print("Classe prevista:", predicted_label)
 ```
 
+[em construção...]
+
 ## CONSIDERAÇÕES FINAIS
 
+[em construção...]
+
 ## REFERÊNCIAS
+[em construção...]
