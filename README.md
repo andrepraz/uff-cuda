@@ -212,4 +212,8 @@ print("Classe prevista:", predicted_label)
 [em construção...]
 
 ## REFERÊNCIAS
-[em construção...]
+DUARTE, J. A. M.; RIVOIRE, V.; AUGUSTO RIBEIRO, Â. Mídias sociais on line e prática jornalística: um estudo em Santa Catarina. Universitas: Arquitetura e Comunicação Social, v. 13, n. 1, 9 set. 2016.
+
+RUSSELL, S.; NORVIG, P. Inteligência artificial. 3. ed. Rio de Janeiro: Elsevier, 2013.
+
+SILVA, C. R. M. DA; TESSAROLO, F. M. Influenciadores Digitais e as Redes Sociais Enquanto Plataformas de Mídia. Intercom - Revista Brasileira de Ciências da Comunicação, v. 31, n. 2, p. PÃ¡g. 289, 2016. 
