@@ -1,4 +1,4 @@
-# Redes neurais para classificação de textos jornalísticos e processamento paralelo em CUDA e PyTorch
+# Redes neurais para classificação de textos jornalísticos com processamento paralelo em CUDA e PyTorch
 
 ### André Ricardo Prazeres Rodrigues
 
